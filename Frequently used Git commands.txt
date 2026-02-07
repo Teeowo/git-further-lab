@@ -1,0 +1,8 @@
+git config --global user.name "Teeowo"
+git config --global user.email "owobotosin@yahoo.com"
+git config --global init.defaultBranch main
+
+
+git config --list
+
+https://github.com/Teeowo/git-further-lab.git
